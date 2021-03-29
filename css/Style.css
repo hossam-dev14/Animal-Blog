@@ -104,10 +104,6 @@ button.btn{
     color: var(--text-light);
 }
 
-.Josefin{
-  font-family: var(--Josefin)
-}
-
 /* Navbar ---------*/
 .navbar {
   background: #fff;
@@ -170,8 +166,7 @@ button.btn{
   padding: 1.1rem 0;
   display: block;
   font-family: var(--Anton);
-  color: var(
-  --text-gray);
+  color: var(--text-gray);
 }
 
 .navbar .nav-brand a:hover{
