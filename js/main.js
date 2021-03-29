@@ -5,7 +5,7 @@ const responsive = {
     320: {
         items: 2
     },
-    762: {
+    560: {
         items: 3
     },
     960: {
