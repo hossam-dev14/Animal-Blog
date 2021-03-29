@@ -3,9 +3,7 @@
 
 
 
-
-![Animal-Blog](https://repository-images.githubusercontent.com/352467338/e06c1b80-908a-11eb-87ae-a745628efec0.png)
-
+![Animal-Blog](https://user-images.githubusercontent.com/73648971/112833177-473f0400-908e-11eb-953a-a8d03d03fc33.jpg)
 
 
 
